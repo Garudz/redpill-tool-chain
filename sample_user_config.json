@@ -1,16 +1,1 @@
-{
-  "extra_cmdline": {
-    "vid": "0x1221",
-    "pid": "0x3234",
-    "sn": "1830PDN343805",
-    "netif_num":"2",
-    "mac1": "001132123456",
-    "mac2": "001132123457"
-  },
-  "synoinfo": {
-    "maxdisks" : "16",
-    "internalportcfg" : "0x7",
-    "esataportcfg" : "0xffff8"
-    },
-    "ramdisk_copy": {},
-  }
+
